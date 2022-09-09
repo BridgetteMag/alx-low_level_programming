@@ -2,7 +2,9 @@
 #include<studio>
 
 /**
- * main -Printing
+ * main - Entry point
+ *
+ * Description: 'A programme that prints a string put'
  *
  * Return: Always 0 (Sucessful)
  */
