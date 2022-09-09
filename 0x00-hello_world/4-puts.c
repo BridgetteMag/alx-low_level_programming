@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - Entry point
+ * Descriptiption: print exactly programming is like a multilingual puzzle
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts(Programming is like building a multilingual puzzle\n");
