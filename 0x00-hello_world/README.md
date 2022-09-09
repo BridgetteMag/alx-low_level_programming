@@ -1,1 +1,1 @@
-Write a C programme that prints exactly "Programming is like a multilingual puzzle", followed by a new line.
+Write a C programme that prints exactly with proper grammar, but the outcome is a peice of art, followed by a new line
