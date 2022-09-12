@@ -1,1 +1,1 @@
-Prints all numbers of base16 in lowercase
+prints all combinations of single digits
