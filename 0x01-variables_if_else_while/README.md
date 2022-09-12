@@ -1,1 +1,1 @@
-Write a program that prints the alphabet in lower case followed by a new line
+Write a program that prints the alphabets in lower case, and then in upper case followed by a new line
