@@ -1,1 +1,1 @@
-Program that prints lowercase alphabets in reverse
+Prints all numbers of base16 in lowercase
