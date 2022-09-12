@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - prints alphabet in lowercase follwed by a new line
+ * main - entry point
  *
- * Description: prints alphabets
- * this program prints alphabets in lowercasefollowed by a new line
+ * Description: prints alphabets in lowercase followed by a new line
+ *
  * Retun: 0
  */
 int main(void)
