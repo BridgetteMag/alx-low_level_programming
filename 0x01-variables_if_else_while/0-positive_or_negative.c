@@ -3,25 +3,25 @@
 #include <stdio.h>
 
 /**
- * Description - Prints a random number and states wether
- * it is positive,negative or zero.
+ * main - print if the number is positive, negative, or zero
  *
- * Return: Always 0.
+ * Description: using the mian function
+ * this program prints "numbers stored in postive,negative or zero"
+ * Return: 0
  */
 int main(void)
 {
 	int n;
-
 	srand(time(0));
-	n = rand() - RAND_MAX / 2;
 
-	if (n > 0)
-		printf("%d is positive\n", n);
-	else if (n < 0)
-		printf("%d is negative\n", n);
-	else 
-		printf("%d is zero\n", n);
+	n = rand(0 - RAND_MAX / 2
 
-	return (0);
-}
+			if (n > 0)
+			printf("%d is positive\n", n);
+			else if (n == 0)
+			printf("%d is zero\n", n);
+			else
+			printf("%d is negative\n", n);
 
+			return (0);
+			}
