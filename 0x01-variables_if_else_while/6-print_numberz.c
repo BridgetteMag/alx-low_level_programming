@@ -1,17 +1,16 @@
 #include <stdio.h>
 /**
- * main -entry point
+ * main - Main entry point
  *
  * Description: prints all single digit numbers
- *
- * Return: 0
+ *Return: 0
  */
 int main(void)
 {
-	int ch;
+char ch;
 
-	for (ch = '0' ; ch <= '9' ; 10)
-		ch++;
-		putchar(ch);
-	return (0);
+for (ch = '0' ; ch <= '9' ; 10)
+	ch++;
+putchar(ch);
+return (0);
 }
