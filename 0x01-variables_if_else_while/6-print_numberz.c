@@ -12,7 +12,6 @@ int main(void)
 
 	for (ch = '0' ; ch <= '9' ; 10)
 		ch++;
-
 		putchar(ch);
 	return (0);
 }
