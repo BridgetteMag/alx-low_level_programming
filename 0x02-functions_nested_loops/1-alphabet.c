@@ -1,9 +1,12 @@
 #include "main.h"
+#include <stdio.h>
+#include <ctype.h>
+#include <string.h>
 
 /**
- * main - main entry
+ * print_alphabet - function
  *
- * Description: print_alphabet in lowercase
+ * Description: prints the alphabets
  *
  * Return: 0
  */
@@ -11,7 +14,7 @@ void print_alphabet(void)
 {
 	char c;
 
-	for (c = 'a' ; c <= 'z' ; c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
 	}
