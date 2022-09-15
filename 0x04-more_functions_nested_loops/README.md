@@ -1,1 +1,1 @@
-Write a function that checks for a digit (0-9)
+write a function that multiplies two integers
