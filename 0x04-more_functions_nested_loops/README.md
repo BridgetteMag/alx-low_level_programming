@@ -1,1 +1,1 @@
-Write a function that checks the upper character
+Write a function that checks for a digit (0-9)
