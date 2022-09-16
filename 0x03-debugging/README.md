@@ -1,1 +1,1 @@
-prints the largest of 3 integers
+Prints the remaining days of the year
