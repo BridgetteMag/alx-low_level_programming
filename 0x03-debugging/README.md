@@ -1,1 +1,1 @@
-prints the largest number of 3 integers
+prints the largest of 3 integers
