@@ -11,7 +11,7 @@ int main(void)
 
 	while (inc++ < number / 2)
 	{
-		if number % inc == 0)
+		if (number % inc == 0)
 		{
 			number /= 2;
 			continue;
@@ -21,6 +21,7 @@ int main(void)
 			if (number % inc == 0)
 				number /= inc;
 		}
-		_putchar ('\n');
 	}
+	printf(" %ld\n", number);
+	return (0);
 }
