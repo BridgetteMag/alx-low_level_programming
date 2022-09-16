@@ -1,1 +1,1 @@
-Checks if integer is negative or positive
+causes an infinite loop
