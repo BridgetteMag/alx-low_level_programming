@@ -7,8 +7,7 @@
  * @str: string parameter
  *
  */
-void puts_half(char *str);
-
+void puts_half(char *str)
 {
 	int x, y, i;
 
