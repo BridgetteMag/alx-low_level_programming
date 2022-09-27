@@ -6,4 +6,5 @@
 5-Write a function that locates a substring
 7-Write a function that prints the chessboard
 8-Write a function that prints the sum of two diagonals of a square matrix
+9-Write a function that sets the value of a pointer to a char
 
