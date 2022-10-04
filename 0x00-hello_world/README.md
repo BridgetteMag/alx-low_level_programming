@@ -1,1 +1,1 @@
-Write a script that generates the assembly code(Intel syntax)of a C code and save it in an output file.
+This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print wether the number stored in the variable is negative or positive.

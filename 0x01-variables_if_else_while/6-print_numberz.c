@@ -11,6 +11,6 @@ char ch;
 
 for (ch = '0' ; ch <= '9' ; 10)
 	ch++;
-putchar(ch);
+	putchar(ch);
 return (0);
 }
